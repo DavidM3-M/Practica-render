@@ -5,7 +5,7 @@
   "main": "dist/main.js",
   "scripts": {
     "start": "nest start",
-    "start:prod": "node dist/main.js",
+    "start:prod": "node src/main.js",
     "build": "nest build"
   },
   "dependencies": {
