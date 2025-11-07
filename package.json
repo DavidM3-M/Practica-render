@@ -4,6 +4,7 @@
   "description": "Minimal NestJS API for Render",
   "main": "dist/main.js",
   "scripts": {
+     "verify": "ls -la dist",
     "start": "nest start",
     "start:prod": "node dist/main.js",
     "build": "nest build"
